@@ -95,7 +95,7 @@ Passionate about creating seamless and impactful digital experiences. I speciali
 ## 📫 Let's Connect
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/anand-sharma-a743b225a)
-- **Twitter**: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+- **Twitter**: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/anandk_02)
 - **Portfolio**: [![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=flat)](https://www.yourportfolio.com)
 
 Feel free to reach out for collaboration, questions, or just to say hi!
