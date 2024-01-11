@@ -1,6 +1,6 @@
 # Full-Stack Developer Profile
 
-## 👋 Hello, I'm Anand Sharma  - Full-Stack Developer
+## 👋 Hello, I'm Anand Sharma  - Full-Stack Developer | MERN Stack | VPS Expert
 
 Passionate about creating seamless and impactful digital experiences. I specialize in full-stack web development, combining both frontend and backend technologies to build robust and scalable applications.
 
